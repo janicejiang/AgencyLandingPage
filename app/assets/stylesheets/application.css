@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+/*去掉body和浏览器四周的白边*/
+body {
+  margin: 0px;
+  padding: 0px;
+}
